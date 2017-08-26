@@ -124,7 +124,7 @@ CREATE TABLE `user` (
 
 /*Data for the table `user` */
 
-insert  into `user`(`id`,`username`,`PASSWORD`,`email`,`company_id`) values (1,'胡贵齐','6666','hugq@xipudata.com',NULL),(2,'程浩','123','chengh@xipudata.com',3),(3,'陈锴','xp888','chenk@xipudata.com',3),(4,'邵雪倩','xp888','shaoxq@xipudata.com',3),(5,'陈祖涛','xp888','chenzt@xipudata.com',3),(6,'张峻滔','xp888','zhangjt@xipudata.com',3),(7,'廖双飞','xp888','liaosf@xipudata.com',3),(8,'洪伟','','hongw@xipudata.com',3),(9,'郭晋','xp888','gj@xipunet.com',3),(10,'邹舟','xp888','zouz@xipunet.com',NULL);
+insert  into `user`(`id`,`username`,`PASSWORD`,`email`,`company_id`) values (1,'admin','admin','hugq@xipudata.com',NULL);
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
